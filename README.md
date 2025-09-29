@@ -2,4 +2,5 @@
 
 "bash 
 git init 
-git remote add origin SSH_REPO"
+git remote add origin SSH_REPO
+"
